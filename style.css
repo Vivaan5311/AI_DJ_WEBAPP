@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: cyan;
+}
+
+.div_spd{
+    float: left;
+}
+
+.div_spd_img{
+    width: 200px;
+    border-radius: 100px;
+} 
+
+#spd{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_vol{
+    float: right;
+}
+
+.div_vol_img{
+    width: 200px;
+    border-radius: 100px;
+} 
+
+#vol{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_buttun{
+    width: 130px;
+    font-size: 25px;
+}
